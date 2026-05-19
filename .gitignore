@@ -1,0 +1,13 @@
+# OS and editor files
+
+# OS and editor files
+.DS_Store
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node/npm (just in case)
+node_modules/
+package-lock.json
+npm-debug.log
